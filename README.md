@@ -3,12 +3,12 @@ SOA-Application
 # DFC (Online Food Order System)
 
 <p align="center">
-  <img style="width:55%;" src=https://media4.giphy.com/media/7qWF0zp5sXDFyqup0y/giphy.gif?cid=6c09b9520lx5betbilx0fpv8sitjntpjsjmn7pz2ml12pnjw&ep=v1_stickers_related&rid=giphy.gif&ct=s />
+  <img style="width:25%;" src=https://media4.giphy.com/media/7qWF0zp5sXDFyqup0y/giphy.gif?cid=6c09b9520lx5betbilx0fpv8sitjntpjsjmn7pz2ml12pnjw&ep=v1_stickers_related&rid=giphy.gif&ct=s />
 </p>
 
 
 <li>An online Food Delivery Application having backend REST-API, made in Java Spring Boot, JPA-Hibernate with MySQL database.
-
+<li> 
  
  
 ## Used Tech Stack & Tools:
@@ -35,5 +35,7 @@ SOA-Application
 
 
 ## ER Diagram
+![Online-Food-Order-App](https://user-images.githubusercontent.com/76105799/203701190-7211e27e-4afa-4110-af11-375a538fd17d.png)
 
-![203701190-7211e27e-4afa-4110-af11-375a538fd17d](https://github.com/nitali-08/SOA-Application/assets/97014713/a1e926de-e12c-4aa0-b0d1-7e3f95fd641c)
+
+
