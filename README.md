@@ -1,6 +1,6 @@
 SOA-Application
 
-# DFC (Online Food Order System)
+## DFC (Online Food Order System)
 
 <p align="center">
   <img style="width:55%;" src=https://media4.giphy.com/media/7qWF0zp5sXDFyqup0y/giphy.gif?cid=6c09b9520lx5betbilx0fpv8sitjntpjsjmn7pz2ml12pnjw&ep=v1_stickers_related&rid=giphy.gif&ct=s />
@@ -8,8 +8,7 @@ SOA-Application
 
 
 <li>An online Food Delivery Application having backend REST-API, made in Java Spring Boot, JPA-Hibernate with MySQL database.
-<li> 
- 
+
  
 ## Used Tech Stack & Tools:
 1. JAVA
